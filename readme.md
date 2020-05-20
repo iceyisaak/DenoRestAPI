@@ -1,8 +1,13 @@
 # Deno REST Api
 
-Experimental CRUD REST API using Deno V.1.0.0
+Experimental CRUD REST API using Deno V.1.0.0 & Oak
 
-### To run project
+### Dependencies
+
+- Oak Middleware
+- v4 uuid
+
+## To run project
 
 ```
 deno run --allow-net server.ts
