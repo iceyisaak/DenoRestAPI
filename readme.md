@@ -1,6 +1,6 @@
 # Deno REST Api
 
-Experimental CRUD REST API using Deno V.1.0.0 & Oak
+Experimental CRUD REST API using Deno V.1.0.0 & Oak Middleware
 
 ### Dependencies
 
